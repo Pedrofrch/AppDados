@@ -12,5 +12,5 @@ sem falar dos diversos travamentos e crashes ao emular o dispositivo, enfim MUIT
 A forma que consegui foi inserir os dados primeiro e na tela seguinte mostra-los.
 
 LOGIN:
-user: flavio
+user: flavio,
 senha: 123
